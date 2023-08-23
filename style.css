@@ -14,7 +14,7 @@ KOMAL REDDY K  */
     box-sizing:border-box;
 }
 body{
-    background-image: url("./bg.jpg");
+    background-image: url("bg.jpg");
     width: 100%;
     height: 100%;
     padding: 5rem;
